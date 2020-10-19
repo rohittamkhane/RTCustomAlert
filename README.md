@@ -4,7 +4,7 @@
 
 Custom Alert example written in swift. It uses Xib for UI design and delegate to handle Custom Alert actions.
 
-Implement - Create a Custom Alert Controller in Swift [Medium.com]()
+Create a Custom Alert Controller in Swift step by step [Medium.com](https://medium.com/@rohittamkhane/create-a-custom-alert-controller-in-swift-ef5d715839f5)
 
 ## Usage
 
